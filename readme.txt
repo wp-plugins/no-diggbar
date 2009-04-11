@@ -2,8 +2,8 @@
 Contributors: akrabat
 Donate link: http://akrabat.com
 Tags: digg
-Requires at least: 2.1
-Tested up to: 2.7
+Requires at least: 2.5
+Tested up to: 2.8
 Stable tag: 1.0
 
 This plugin redirects DiggBar users to your actual site.
