@@ -4,7 +4,7 @@ Donate link: http://akrabat.com
 Tags: digg
 Requires at least: 2.1
 Tested up to: 2.7
-Stable tag: trunk
+Stable tag: 1.0
 
 This plugin redirects DiggBar users to your actual site.
 
