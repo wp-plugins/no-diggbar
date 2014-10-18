@@ -6,7 +6,7 @@ Requires at least: 2.5
 Tested up to: 2.8
 Stable tag: 1.0
 
-This plugin redirects DiggBar users to your actual site.
+This plugin is no longer maintained.
 
 == Description ==
 
