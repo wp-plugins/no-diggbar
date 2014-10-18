@@ -1,12 +1,12 @@
 === Plugin Name ===
 Contributors: akrabat
 Donate link: http://akrabat.com
-Tags: digg
+Tags:
 Requires at least: 2.5
 Tested up to: 2.8
 Stable tag: 1.0
 
-This plugin is no longer maintained.
+This plugin is no longer maintained!
 
 == Description ==
 
